@@ -1,1 +1,1 @@
-# patreon-check-py
+# patreon-check
